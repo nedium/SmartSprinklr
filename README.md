@@ -1,3 +1,4 @@
 # SmartSprinklr
-Open source smart sprinkler automation
-Runs on raspberry pi
+Open source smart sprinkler automation.
+
+Runs on raspberry pi.
